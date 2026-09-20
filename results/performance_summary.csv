@@ -1,1 +1,7 @@
-
+metric,value
+student_count,500.0
+mean_assessment_score,93.863
+median_assessment_score,96.8
+mean_attendance_pct,81.74
+mean_assignment_avg,81.39
+mean_study_hours_week,10.079
